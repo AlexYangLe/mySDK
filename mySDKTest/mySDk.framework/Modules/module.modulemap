@@ -1,0 +1,6 @@
+framework module mySDk {
+  umbrella header "mySDk.h"
+
+  export *
+  module * { export * }
+}
